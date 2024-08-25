@@ -38,8 +38,8 @@
 
 <h3 align="center">Support:</h3>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/eylembilecik">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eylem bilecik" />
+  <a href="https://www.buymeacoffee.com/kutukutupense">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kutukutupense" />
   </a>
 </p><br><br>
 
