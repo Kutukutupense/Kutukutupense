@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/eylem-bilecik" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eylem bilecik" height="30" width="30" />
   </a>
-  <a href="https://www.hackerrank.com/eylem_bilecik" target="blank">
+  <a href="https://www.hackerrank.com/eylembilecik" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eylem bilecik" height="30" width="30" />
   </a>
 </p>
